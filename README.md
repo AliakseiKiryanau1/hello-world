@@ -15,6 +15,7 @@ The application is divided into 4 parts:
 4. world - Node.js service responding with the word "World"
 
 
+
 ![application configuration diagram](application-diagram.jpg)
 
 
